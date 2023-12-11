@@ -1,5 +1,7 @@
 # Module 19 - Text Editor
 
+![Badge License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+
 In this module, I create text editor that runs in the browser. I utilize Node.js, Express.js, and Web Pack to accomplish this.
 
 Feel free to try out the app [here](text-editor-crfs.onrender.com/).
