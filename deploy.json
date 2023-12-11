@@ -1,0 +1,5 @@
+{
+	"subdomain": "text-editor",
+	"install": "npm install && npm run build",
+	"start": "pnpm server/server.js"
+}
